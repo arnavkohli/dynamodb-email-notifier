@@ -1,0 +1,9 @@
+{
+	"REGION_NAME": "ap-south-1",
+	"TABLE_NAME": "Sample",
+	"ACCESS_KEY": "",
+	"SECRET_KEY": "",
+	"SENDER_EMAIL_ADDRESS": "",
+	"SENDER_PASSWORD": "",
+	"RECEIVER_EMAIL_ADDRESS": ""
+}
